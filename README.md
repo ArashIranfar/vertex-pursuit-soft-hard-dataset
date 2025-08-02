@@ -1,4 +1,4 @@
-# VertexPursuit-SoftHard-Dataset
+# Vertex Pursuit dataset for Soft and Hard Data Fusion and Skill Assessment
 
 A unique soft-hard dataset combining quantitative motor performance metrics with qualitative human evaluations from the Vertex Pursuit task. Features trajectory data, timing metrics, and natural language assessments from 24 participants across 600 trials. Ideal for multimodal ML research bridging human movement analysis and NLP.
 
