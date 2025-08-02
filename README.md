@@ -95,9 +95,9 @@ This dataset is released under the [MIT License](LICENSE).
 
 ## Contributors
 
-- Arash Iranfar
-- Mohammad Soleymannejad
-- Elahe Radmanesh
+- [Arash Iranfar](https://github.com/ArashIranfar)
+- [Mohammad Soleymannejad](https://github.com/muhammadsn)
+- [Elahe Radmanesh](https://github.com/erade)
 
 ## Contact
 
